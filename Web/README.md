@@ -1,2 +1,11 @@
-#Objetivo
-##AtravÈs do site do INMET (https://portal.inmet.gov.br/), construa uma funÁ„o (ou classe) que, dado o nome de um municÌpio e a sigla de seu estado (Ex: Belo Horizonte, MG), colete dados de mediÁıes de temperatura e umidade relativa do dia atual, retornando um dicion·rio cuja as chaves s„o a hora do dia no padr„o "HH:MM", e os valores, tuplas no padr„o "(T, U)", onde "T" È a temperatura e "U" a umidade.
+## Objetivo
+##### Atrav√©s do site do INMET (https://portal.inmet.gov.br/), construa uma fun√ß√£o (ou classe) que, dado o nome de um munic√≠pio e a sigla de seu estado (Ex: Belo Horizonte, MG), colete dados de medi√ß√µes de temperatura e umidade relativa do dia atual, retornando um dicion√°rio cuja as chaves s√£o a hora do dia no padr√£o "HH:MM", e os valores, tuplas no padr√£o "(T, U)", onde "T" √© a temperatura e "U" a umidade.
+--------------------------------------------------------------------------
+## Recursos Usados
+  - Python(3.8)
+  - Anaconda
+  - Scrapy [https://docs.scrapy.org/en/latest/index.html]
+  
+----------------------------------------------------------------------------
+## ATEN√á√ÉO
+###### *ESTE PTOJETO N√ÉO ATINGIU SEU OBJETIVO PRINCIPAL*
